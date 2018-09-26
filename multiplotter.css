@@ -1,6 +1,5 @@
 .multiplott {
 	  width: 450px;
-	  margin: 0 auto;
 }
 
 .multiplottbgs { height: 97px; }
@@ -20,7 +19,7 @@
     outline-offset: -8px;
     font-size: 50px;
     text-align:center;
-    padding:5px; }
+     padding: 35px 0px 20px 0px; }
 
 .multiplotchar {
 	  margin-top: 10px;
