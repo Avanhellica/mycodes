@@ -1,25 +1,18 @@
 .multiplott {
 	  width: 450px;
+	  margin: 0 auto;
 }
 
-.multiplottbgs { height: 97px; }
 
 .multiplotttitle {
-    height: 97px;
-    width: 440px;
-    background: #dee4d5;
-    border: 1px solid #e4e4e4;
     font-family: 'windsong';
     font-weight: 900;
     color: #808f5e;
     letter-spacing: 6px;
     text-transform: lowercase;
     text-shadow: -1.2px -1.2px 0 rgba(255, 255, 255, 1), 1.2px -1.2px 0 rgba(255, 255, 255, 1), -1.2px 1.2px 0 rgba(255, 255, 255, 1), 1.2px 1.2px 0 rgba(255, 255, 255, 1);
-    outline: 1px solid white;
-    outline-offset: -8px;
     font-size: 50px;
-    text-align:center;
-     padding: 35px 0px 20px 0px; }
+    text-align:center; }
 
 .multiplotchar {
 	  margin-top: 10px;
