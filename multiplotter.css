@@ -5,6 +5,7 @@
 
 
 .multiplotttitle {
+	background-color: #dfe5d6;
     font-family: 'windsong';
     font-weight: 900;
     color: #808f5e;
@@ -21,7 +22,7 @@
 
 .multiplotcharn {
     position:absolute;
-    font-family:raleway;
+    font-family:'raleway';
     text-shadow: -1px -1px 0 rgba(255, 255, 255, 1), 1px -1px 0 rgba(255, 255, 255, 1), -1px 1px 0 rgba(255, 255, 255, 1), 1px 1px 0 rgba(255, 255, 255, 1);
     font-size:20px;
     max-width:500px;
