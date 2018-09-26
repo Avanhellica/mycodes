@@ -6,6 +6,8 @@
 .multiplottbgs { height: 97px; }
 
 .multiplotttitle {
+    height: 97px;
+    width: 440px;
     background: #dee4d5;
     border: 1px solid #e4e4e4;
     font-family: 'windsong';
